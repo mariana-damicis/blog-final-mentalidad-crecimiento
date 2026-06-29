@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Durante la materia de Data Analytics tuve mi primer acercamiento al diseño de bases de datos utilizando SQL. Como parte de una actividad, debíamos normalizar un conjunto de datos antes de crear las tablas e implementar la base de datos.
+Durante la materia de Data Analytics tuve mi primer acercamiento al diseño de bases de datos relacionales utilizando SQL. Como parte de una actividad práctica, debíamos normalizar un conjunto de datos para construir un modelo de base de datos correctamente organizado y evitar la redundancia de información.
 
 ## Problema
 
