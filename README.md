@@ -27,3 +27,7 @@ Este blog fue desarrollado utilizando GitHub. Durante su elaboración se realiza
 ## Reflexión sobre feedback radicalmente sincero
 
 El feedback del profesor fue fundamental para destrabar mi aprendizaje. En lugar de limitarse a indicar que la solución era incorrecta, me hizo reflexionar sobre la función de cada dato y las relaciones entre las tablas. Ese enfoque me permitió comprender el problema desde otra perspectiva y entender que pedir ayuda y aceptar comentarios constructivos forma parte del proceso de aprendizaje. Esta experiencia fortaleció mi mentalidad de crecimiento y me motivó a enfrentar nuevos desafíos con mayor confianza.
+
+## Conclusión
+
+Esta experiencia me permitió comprender que aprender tecnologías nuevas requiere tiempo, práctica y disposición para recibir feedback. Más allá del resultado técnico, considero que desarrollar una mentalidad de crecimiento es fundamental para seguir avanzando en mi formación como futura profesional en Data Analytics.
