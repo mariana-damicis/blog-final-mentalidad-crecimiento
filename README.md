@@ -1,4 +1,4 @@
-# Mi experiencia aprendiendo la normalización de datos para SQL
+# Aprendiendo normalización de datos: una experiencia durante mi primer proyecto con SQL
 
 ## Contexto
 
